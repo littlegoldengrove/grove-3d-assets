@@ -16,7 +16,7 @@
   {"name": "Bathroom Cabinet", "cat": "gh_bathroom", "snap": "center", "w": 1, "d": 1, "icon": "🗄️"},
   {"name": "Bathroom Cabinet Drawe", "cat": "gh_bathroom", "snap": "center", "w": 1, "d": 1, "icon": "🗄️"},
   
-  {"name": "Kitchen Fridge Large", "cat": "gh_kitchen", "snap": "center", "w": 1, "d": 1, "icon": "🧊"},
+  {"name": "Fridge", "cat": "gh_kitchen", "snap": "center", "w": 1, "d": 1, "icon": "🧊"},
   {"name": "Kitchen Stove", "cat": "gh_kitchen", "snap": "center", "w": 1, "d": 1, "icon": "🍳"},
   {"name": "Kitchen Stove Electric", "cat": "gh_kitchen", "snap": "center", "w": 1, "d": 1, "icon": "🍳"},
   {"name": "Kitchen Stove Hood", "cat": "gh_kitchen", "snap": "center", "w": 1, "d": 1, "icon": "💨"},
