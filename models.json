@@ -17,6 +17,7 @@
   {"name": "Bathroom Cabinet Drawe", "cat": "gh_bathroom", "snap": "center", "w": 1, "d": 1, "icon": "🗄️", "price": 350},
   
   {"name": "Fridge", "cat": "gh_kitchen", "snap": "center", "w": 1, "d": 1, "icon": "🧊", "price": 1500},
+  {"name": "Kitchen Fridge", "cat": "gh_kitchen", "snap": "center", "w": 1, "d": 1, "icon": "🧊", "price": 1200},
   {"name": "Kitchen Stove", "cat": "gh_kitchen", "snap": "center", "w": 1, "d": 1, "icon": "🍳", "price": 1200},
   {"name": "Kitchen Stove Electric", "cat": "gh_kitchen", "snap": "center", "w": 1, "d": 1, "icon": "🍳", "price": 1350},
   {"name": "Kitchen Stove Hood", "cat": "gh_kitchen", "snap": "center", "w": 1, "d": 1, "icon": "💨", "price": 400},
