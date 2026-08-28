@@ -56,8 +56,8 @@
   {"name": "Chair Desk", "label": "Desk Chair", "cat": "gh_seating", "snap": "center", "w": 0.75, "d": 0.75, "icon": "💺", "price": 250},
   {"name": "Bar Stool", "cat": "gh_seating", "snap": "center", "w": 0.5, "d": 0.5, "icon": "🪑", "price": 150, "scale": 0.6},
   {"name": "Bench", "cat": "gh_seating", "snap": "center", "w": 1, "d": 0.5, "icon": "🪑", "price": 350},
-  {"name": "Bench Cushion", "cat": "gh_seating", "snap": "center", "w": 2, "d": 1, "icon": "🪑", "price": 450},
-  {"name": "Bench Cushion Low", "label": "Low Bench", "cat": "gh_seating", "snap": "center", "w": 2, "d": 1, "icon": "🪑", "price": 400},
+  {"name": "Bench Cushion", "cat": "gh_seating", "snap": "center", "w": 1, "d": 0.5, "icon": "🪑", "price": 450},
+  {"name": "Bench Cushion Low", "label": "Low Bench", "cat": "gh_seating", "snap": "center", "w": 1, "d": 0.5, "icon": "🪑", "price": 400},
 
   {"name": "Table", "cat": "gh_tables", "snap": "center", "w": 2, "d": 1, "icon": "🪑", "price": 450},
   {"name": "Round Table", "cat": "gh_tables", "snap": "center", "w": 2, "d": 2, "icon": "🪑", "price": 600},
