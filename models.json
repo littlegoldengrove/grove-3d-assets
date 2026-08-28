@@ -53,9 +53,9 @@
   {"name": "Chair Cushion", "label": "Cushion Chair", "cat": "gh_seating", "snap": "center", "w": 0.5, "d": 0.5, "icon": "🪑", "price": 250},
   {"name": "Chair Modern Cushion", "label": "Modern Chair", "cat": "gh_seating", "snap": "center", "w": 0.5, "d": 0.5, "icon": "🪑", "price": 300},
   {"name": "Chair Modern Frame Cush", "label": "Frame Chair", "cat": "gh_seating", "snap": "center", "w": 0.5, "d": 0.5, "icon": "🪑", "price": 350},
-  {"name": "Chair Desk", "label": "Desk Chair", "cat": "gh_seating", "snap": "center", "w": 0.5, "d": 0.5, "icon": "💺", "price": 250},
+  {"name": "Chair Desk", "label": "Desk Chair", "cat": "gh_seating", "snap": "center", "w": 0.75, "d": 0.75, "icon": "💺", "price": 250},
   {"name": "Bar Stool", "cat": "gh_seating", "snap": "center", "w": 0.5, "d": 0.5, "icon": "🪑", "price": 150, "scale": 0.6},
-  {"name": "Bench", "cat": "gh_seating", "snap": "center", "w": 2, "d": 1, "icon": "🪑", "price": 350},
+  {"name": "Bench", "cat": "gh_seating", "snap": "center", "w": 1, "d": 0.5, "icon": "🪑", "price": 350},
   {"name": "Bench Cushion", "cat": "gh_seating", "snap": "center", "w": 2, "d": 1, "icon": "🪑", "price": 450},
   {"name": "Bench Cushion Low", "label": "Low Bench", "cat": "gh_seating", "snap": "center", "w": 2, "d": 1, "icon": "🪑", "price": 400},
 
