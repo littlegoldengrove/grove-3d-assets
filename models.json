@@ -99,7 +99,7 @@
   {"name": "Coat Rack Standing", "label": "Standing Rack", "cat": "gh_decor", "snap": "center", "w": 1, "d": 1, "icon": "🧥", "price": 200, "scale": 0.6},
 
   {"name": "Stairs", "cat": "gh_architecture", "snap": "center", "w": 1, "d": 4, "icon": "🪜", "price": 1200},
-  {"name": "Stairs Corner", "cat": "gh_architecture", "snap": "center", "w": 3, "d": 1.5, "icon": "🪜", "price": 1500},
+  {"name": "Stairs Corner", "cat": "gh_architecture", "snap": "center", "w": 2.5, "d": 3, "icon": "🪜", "price": 1500},
   {"name": "Stairs Open", "cat": "gh_architecture", "snap": "center", "w": 3, "d": 1, "icon": "🪜", "price": 1000},
   {"name": "Stairs Open Single", "label": "Single Stairs", "cat": "gh_architecture", "snap": "center", "w": 1, "d": 3, "icon": "🪜", "price": 800},
   {"name": "Wall Doorway", "cat": "gh_architecture", "snap": "edge", "w": 1, "d": 1, "icon": "🚪", "price": 600},
