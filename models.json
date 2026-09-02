@@ -64,7 +64,7 @@
   {"name": "Side Table Drawers", "label": "Drawer Table", "cat": "gh_tables", "snap": "center", "w": 1, "d": 1, "icon": "🪑", "price": 200},
 
   {"name": "Television", "cat": "gh_decor", "snap": "center", "w": 2, "d": 1, "icon": "📺", "price": 800},
-  {"name": "Cabinet Television", "label": "TV Stand", "cat": "gh_decor", "snap": "center", "w": 2, "d": 1, "icon": "📺", "price": 1200, "scale": 0.7},
+  {"name": "Cabinet Television", "label": "TV Stand", "cat": "gh_decor", "snap": "center", "w": 2, "d": 1, "icon": "📺", "price": 1200},
   {"name": "Cabinet Television Doo", "label": "TV Cabinet", "cat": "gh_decor", "snap": "center", "w": 2, "d": 1, "icon": "📺", "price": 1300},
   {"name": "Bookcase Closed", "cat": "gh_decor", "snap": "center", "w": 1, "d": 1, "icon": "📚", "price": 400},
   {"name": "Bookcase Closed Doors", "label": "Books w/Doors", "cat": "gh_decor", "snap": "center", "w": 1, "d": 1, "icon": "📚", "price": 450},
@@ -98,10 +98,10 @@
   {"name": "Coat Rack", "cat": "gh_decor", "snap": "edge", "w": 1, "d": 1, "icon": "🧥", "price": 150, "yOffset": 0.5, "scale": 0.5},
   {"name": "Coat Rack Standing", "label": "Standing Rack", "cat": "gh_decor", "snap": "center", "w": 1, "d": 1, "icon": "🧥", "price": 200, "scale": 0.6},
 
-  {"name": "Stairs", "cat": "gh_architecture", "snap": "center", "w": 1, "d": 3, "icon": "🪜", "price": 1200},
-  {"name": "Stairs Corner", "cat": "gh_architecture", "snap": "center", "w": 2, "d": 2, "icon": "🪜", "price": 1500},
-  {"name": "Stairs Open", "cat": "gh_architecture", "snap": "center", "w": 1, "d": 2, "icon": "🪜", "price": 1000},
-  {"name": "Stairs Open Single", "label": "Single Stairs", "cat": "gh_architecture", "snap": "center", "w": 1, "d": 1, "icon": "🪜", "price": 800},
+  {"name": "Stairs", "cat": "gh_architecture", "snap": "center", "w": 1, "d": 4, "icon": "🪜", "price": 1200},
+  {"name": "Stairs Corner", "cat": "gh_architecture", "snap": "center", "w": 3, "d": 3, "icon": "🪜", "price": 1500},
+  {"name": "Stairs Open", "cat": "gh_architecture", "snap": "center", "w": 3, "d": 1, "icon": "🪜", "price": 1000},
+  {"name": "Stairs Open Single", "label": "Single Stairs", "cat": "gh_architecture", "snap": "center", "w": 1, "d": 3, "icon": "🪜", "price": 800},
   {"name": "Wall Doorway", "cat": "gh_architecture", "snap": "edge", "w": 1, "d": 1, "icon": "🚪", "price": 600},
   {"name": "Wall Doorway Wide", "label": "Wide Doorway", "cat": "gh_architecture", "snap": "edge", "w": 2, "d": 1, "icon": "🚪", "price": 900},
   {"name": "Doorway", "cat": "gh_architecture", "snap": "edge", "w": 1, "d": 1, "icon": "🚪", "price": 400},
