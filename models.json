@@ -43,6 +43,8 @@
   {"name": "Chair", "cat": "gh_seating", "snap": "center", "w": 1, "d": 1, "icon": "🪑", "price": 150, "scale": 0.5},
   {"name": "Chair Rounded", "label": "Round Chair", "cat": "gh_seating", "snap": "center", "w": 1, "d": 1, "icon": "🪑", "price": 200, "scale": 0.5},
   {"name": "Chair Cushion", "label": "Cushion Chair", "cat": "gh_seating", "snap": "center", "w": 1, "d": 1, "icon": "🪑", "price": 250, "scale": 0.5},
+  {"name": "Chair Modern Cushion", "label": "Modern Chair", "cat": "gh_seating", "snap": "center", "w": 1, "d": 1, "icon": "🪑", "price": 300, "scale": 0.5},
+  {"name": "Chair Modern Frame Cush", "label": "Frame Chair", "cat": "gh_seating", "snap": "center", "w": 1, "d": 1, "icon": "🪑", "price": 350, "scale": 0.5},
   {"name": "Chair Desk", "label": "Desk Chair", "cat": "gh_seating", "snap": "center", "w": 1, "d": 1, "icon": "💺", "price": 250, "scale": 0.6},
   {"name": "Bar Stool", "cat": "gh_seating", "snap": "center", "w": 1, "d": 1, "icon": "🪑", "price": 150, "scale": 0.6},
   {"name": "Bench", "cat": "gh_seating", "snap": "center", "w": 1, "d": 1, "icon": "🪑", "price": 350, "scale": 1.0},
@@ -174,5 +176,25 @@
   {"name": "Tree by Poly by Google - 6pwiq7hSrHr", "cat": "nature", "label": "Tree Poly", "icon": "🌳"},
   {"name": "Mountain Group by Quaternius - a52gSEEq8X", "cat": "nature", "label": "Mountain Group", "icon": "⛰️"},
   {"name": "Rock Medium by Quaternius - KZdEP3uUpa", "cat": "nature", "label": "Rock Medium 1", "icon": "🪨"},
-  {"name": "Rock Medium by Quaternius - s1OJ3bBzqc", "cat": "nature", "label" 
-  
+  {"name": "Rock Medium by Quaternius - s1OJ3bBzqc", "cat": "nature", "label": "Rock Medium 2", "icon": "🪨"},
+  {"name": "Rock Path Round Small by Quaternius - yHEdadj5I0", "cat": "nature", "label": "Rock Path Round", "icon": "🪨"},
+  {"name": "Rock by Quaternius - RtLRqYjfMs", "cat": "nature", "label": "Rock", "icon": "🪨"},
+
+  {"name": "Apple by Kenney - o4Of5itnxB", "cat": "gh_items", "label": "Apple", "icon": "🍎"},
+  {"name": "Banana by Quaternius - ruOFtE0B6Z", "cat": "gh_items", "label": "Banana", "icon": "🍌"},
+  {"name": "Campfire by Poly by Google - 0vzzmM-t8CP", "cat": "gh_items", "label": "Campfire", "icon": "🔥"},
+  {"name": "Carrot by Kenney - 59muuwqSsq", "cat": "gh_items", "label": "Carrot", "icon": "🥕"},
+  {"name": "Chest by Quaternius - O72u4Drp8k", "cat": "gh_items", "label": "Chest", "icon": "🧰"},
+  {"name": "Chest with Gold by Quaternius - haqf9qoiOG", "cat": "gh_items", "label": "Gold Chest", "icon": "🪙"},
+  {"name": "Crate by Quaternius - 3VGWnZPXmG", "cat": "gh_items", "label": "Crate", "icon": "📦"},
+  {"name": "Crown by Poly by Google - 0seQ0mn72s5", "cat": "gh_items", "label": "Crown", "icon": "👑"},
+  {"name": "Fire hydrant by Poly by Google - eNPaSEPrst8", "cat": "gh_items", "label": "Fire Hydrant", "icon": "🧯"},
+  {"name": "Honey by Kenney - p92t5dG8Zd", "cat": "gh_items", "label": "Honey", "icon": "🍯"},
+  {"name": "Key by Quaternius - bg6e1lfNsO", "cat": "gh_items", "label": "Key", "icon": "🔑"},
+  {"name": "Pineapple by Kenney - VFFBOLXqB2", "cat": "gh_items", "label": "Pineapple", "icon": "🍍"},
+  {"name": "Star Coin by Quaternius - n5nJIQAozN", "cat": "gh_items", "label": "Star Coin", "icon": "⭐"},
+  {"name": "Stop sign by Poly by Google - 60GyU9CdZ9r", "cat": "gh_items", "label": "Stop Sign", "icon": "🛑"},
+  {"name": "Treasure chest by Louis DeScioli - f7SU-dO1FG7", "cat": "gh_items", "label": "Treasure Chest", "icon": "🏴‍☠️"},
+  {"name": "Paper airplane by Poly by Google - 75WQH5E29tF", "cat": "gh_items", "label": "Paper Airplane", "icon": "✈️"}
+]
+
