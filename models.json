@@ -18,7 +18,6 @@
   {"name": "Kitchen Stove Electric", "label": "Elec Stove", "cat": "gh_kitchen", "snap": "center", "w": 1, "d": 1, "icon": "🍳", "price": 1350},
   {"name": "Kitchen Stove Hood", "label": "Stove Hood", "cat": "gh_kitchen", "snap": "center", "w": 1, "d": 1, "icon": "💨", "price": 400, "yOffset": 1.8},
   {"name": "Kitchen Sink", "label": "Kitchen Sink", "cat": "gh_kitchen", "snap": "center", "w": 1, "d": 1, "icon": "🚰", "price": 550},
-  {"name": "Kitchen Bar", "label": "Island Bar", "cat": "gh_kitchen", "snap": "center", "w": 1, "d": 1, "icon": "🍷", "price": 800},
   {"name": "Kitchen Cabinet", "label": "Base Cab", "cat": "gh_kitchen", "snap": "center", "w": 1, "d": 1, "icon": "🗄️", "price": 250},
   {"name": "Kitchen Cabinet Drawer", "label": "Drawer Cab", "cat": "gh_kitchen", "snap": "center", "w": 1, "d": 1, "icon": "🗄️", "price": 300},
   {"name": "Kitchen Cabinet Corner", "label": "Corner Cab", "cat": "gh_kitchen", "snap": "center", "w": 1, "d": 1, "icon": "📐", "price": 350, "xOffset": 0.04, "zOffset": -0.04},
