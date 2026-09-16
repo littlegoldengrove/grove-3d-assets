@@ -88,8 +88,8 @@
   {"name": "Ceiling Fan", "cat": "gh_decor", "snap": "center", "w": 1, "d": 1, "icon": "🪭", "price": 300, "yOffset": 2.8, "scale": 0.8},
   {"name": "Coat Rack", "cat": "gh_decor", "snap": "edge", "w": 1, "d": 1, "icon": "🧥", "price": 150, "yOffset": 1.2, "scale": 0.5},
   {"name": "Coat Rack Standing", "label": "Standing Rack", "cat": "gh_decor", "snap": "center", "w": 1, "d": 1, "icon": "🧥", "price": 200, "scale": 0.6},
-  {"name": "Stairs Corner", "cat": "gh_build", "snap": "center", "w": 2.5, "d": 2, "icon": "🪜", "price": 1500, "h": 3.0, "scale": 0.6},
-  {"name": "Stairs Open", "label": "Stairs", "cat": "gh_build", "snap": "center", "w": 3, "d": 1, "icon": "🪜", "price": 1000, "h": 3.0, "scale": 0.64},
+  {"name": "Stairs Corner", "cat": "gh_build", "snap": "center", "w": 2, "d": 2, "icon": "🪜", "price": 1500, "h": 3.0, "scale": 0.8},
+  {"name": "Stairs Open", "label": "Stairs", "cat": "gh_build", "snap": "center", "w": 3, "d": 1, "icon": "🪜", "price": 1000, "h": 3.0, "scale": 0.5},
   
   {"name": "Fireplace by Poly by Google - fueH4_5W9Ug", "cat": "gh_decor", "label": "Fireplace", "snap": "center", "w": 2, "d": 1, "icon": "🔥", "price": 1000},
   
