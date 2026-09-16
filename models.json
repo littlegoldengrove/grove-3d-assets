@@ -97,7 +97,6 @@
   {"name": "Anteater", "cat": "gh_animals", "label": "Anteater", "icon": "🐾"},
   {"name": "Antelope", "cat": "gh_animals", "label": "Antelope", "icon": "🐾"},
   {"name": "Arabian wildcat", "cat": "gh_animals", "label": "Arabian Wildcat", "icon": "🐾"},
-  {"name": "BUFFALO.SUNRISE", "cat": "gh_animals", "label": "Buffalo", "icon": "🦬"},
   {"name": "Baboon", "cat": "gh_animals", "label": "Baboon", "icon": "🐒"},
   {"name": "Badger", "cat": "gh_animals", "label": "Badger", "icon": "🦡"},
   {"name": "Bear", "cat": "gh_animals", "label": "Bear", "icon": "🐻"},
