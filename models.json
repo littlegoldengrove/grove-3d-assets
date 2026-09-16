@@ -85,8 +85,6 @@
   {"name": "Laptop", "cat": "gh_decor", "snap": "center", "w": 1, "d": 1, "icon": "💻", "price": 1200, "scale": 0.4},
   {"name": "Computer Screen", "cat": "gh_decor", "snap": "center", "w": 1, "d": 1, "icon": "🖥️", "price": 600, "scale": 0.5},
   {"name": "Computer Keyboard", "label": "Keyboard", "cat": "gh_decor", "snap": "center", "w": 1, "d": 1, "icon": "⌨️", "price": 100, "scale": 0.4},
-  {"name": "Cardboard Box Closed", "label": "Closed Box", "cat": "gh_decor", "snap": "center", "w": 1, "d": 1, "icon": "📦", "price": 20, "scale": 0.5},
-  {"name": "Cardboard Box Open", "label": "Open Box", "cat": "gh_decor", "snap": "center", "w": 1, "d": 1, "icon": "📦", "price": 20, "scale": 0.5},
   {"name": "Ceiling Fan", "cat": "gh_decor", "snap": "center", "w": 1, "d": 1, "icon": "🪭", "price": 300, "yOffset": 2.8, "scale": 0.8},
   {"name": "Coat Rack", "cat": "gh_decor", "snap": "edge", "w": 1, "d": 1, "icon": "🧥", "price": 150, "yOffset": 1.2, "scale": 0.5},
   {"name": "Coat Rack Standing", "label": "Standing Rack", "cat": "gh_decor", "snap": "center", "w": 1, "d": 1, "icon": "🧥", "price": 200, "scale": 0.6},
@@ -165,13 +163,13 @@
 
   {"name": "Log by KelecikDev - MxgRJs7K9q", "cat": "nature", "label": "Log", "icon": "🪵"},
   {"name": "Mushroom by jeremy - 2DAaKHD48ZP", "cat": "nature", "label": "Mushroom", "icon": "🍄"},
-  {"name": "Tree by Poly by Google - 6pwiq7hSrHr", "cat": "nature", "label": "Tree Poly", "icon": "🌳"},
-  {"name": "Mountain Group by Quaternius - a52gSEEq8X", "cat": "nature", "label": "Mountain Group", "icon": "⛰️"},
+  {"name": "Tree by Poly by Google - 6pwiq7hSrHr", "cat": "nature", "label": "Tree Poly", "icon": "🌳", "scale": 2.0},
+  {"name": "Mountain Group by Quaternius - a52gSEEq8X", "cat": "nature", "label": "Mountain Group", "icon": "⛰️", "scale": 2.0},
   {"name": "Rock Medium by Quaternius - KZdEP3uUpa", "cat": "nature", "label": "Rock Medium 1", "icon": "🪨"},
   {"name": "Rock Medium by Quaternius - s1OJ3bBzqc", "cat": "nature", "label": "Rock Medium 2", "icon": "🪨"},
   {"name": "Rock Path Round Small by Quaternius - yHEdadj5I0", "cat": "nature", "label": "Rock Path Round", "icon": "🪨"},
   {"name": "Rock by Quaternius - RtLRqYjfMs", "cat": "nature", "label": "Rock", "icon": "🪨"},
-  {"name": "Fire hydrant by Poly by Google - eNPaSEPrst8", "cat": "nature", "label": "Fire Hydrant", "icon": "🧯"},
+  {"name": "Fire hydrant by Poly by Google - eNPaSEPrst8", "cat": "nature", "label": "Fire Hydrant", "icon": "🧯", "scale": 0.5},
   {"name": "Stop sign by Poly by Google - 60GyU9CdZ9r", "cat": "nature", "label": "Stop Sign", "icon": "🛑"},
   
   {"name": "Apple by Kenney - o4Of5itnxB", "cat": "gh_items", "label": "Apple", "icon": "🍎"},
@@ -187,6 +185,9 @@
   {"name": "Pineapple by Kenney - VFFBOLXqB2", "cat": "gh_items", "label": "Pineapple", "icon": "🍍"},
   {"name": "Star Coin by Quaternius - n5nJIQAozN", "cat": "gh_items", "label": "Star Coin", "icon": "⭐"},
   {"name": "Treasure chest by Louis DeScioli - f7SU-dO1FG7", "cat": "gh_items", "label": "Treasure Chest", "icon": "🏴‍☠️"},
-  {"name": "Paper airplane by Poly by Google - 75WQH5E29tF", "cat": "gh_items", "label": "Paper Airplane", "icon": "✈️"}
+  {"name": "Paper airplane by Poly by Google - 75WQH5E29tF", "cat": "gh_items", "label": "Paper Airplane", "icon": "✈️"},
+  {"name": "Cardboard Box Closed", "label": "Closed Box", "cat": "gh_items", "snap": "center", "w": 1, "d": 1, "icon": "📦", "price": 20, "scale": 0.5},
+  {"name": "Cardboard Box Open", "label": "Open Box", "cat": "gh_items", "snap": "center", "w": 1, "d": 1, "icon": "📦", "price": 20, "scale": 0.5},
+  
 ]
 
