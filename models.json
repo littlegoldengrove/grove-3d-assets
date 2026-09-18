@@ -124,7 +124,7 @@
   {"name": "Shiba Inu by Quaternius - y4wdQpg767", "cat": "gh_animals", "label": "Shiba Inu", "icon": "🐕", "w": 1, "d": 1},
   {"name": "Snail by Poly by Google - aZ_cT-AIu2y", "cat": "gh_animals", "label": "Snail", "icon": "🐌", "w": 1, "d": 1},
   {"name": "Squirrel by Poly by Google - caxos24uWC9", "cat": "gh_animals", "label": "Squirrel", "icon": "🐿️", "w": 1, "d": 1},
-  {"name": "Stag by Quaternius - tQdzbZ1Cmw", "cat": "gh_animals", "label": "Stag", "icon": "🦌", "w": 1, "d": 2, "scale": 1.5}
+  {"name": "Stag by Quaternius - tQdzbZ1Cmw", "cat": "gh_animals", "label": "Stag", "icon": "🦌", "w": 1, "d": 2, "scale": 1.5},
   
   {"name": "Airplane by Poly by Google - 8VysVKMXN2J", "cat": "gh_vehicles", "label": "Airplane 2", "icon": "✈️", "w": 5, "d": 5, "scale": 2.5},
   {"name": "Airplane by Poly by Google - a3XrQkLNna9", "cat": "gh_vehicles", "label": "Airplane 3", "icon": "✈️", "w": 5, "d": 5, "scale": 2.5},
