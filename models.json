@@ -118,19 +118,19 @@
   {"name": "Squirrel by Poly by Google - caxos24uWC9", "cat": "gh_animals", "label": "Squirrel", "icon": "🐿️", "w": 1, "d": 1, "scale": 0.7},
   {"name": "Stag by Quaternius - tQdzbZ1Cmw", "cat": "gh_animals", "label": "Stag", "icon": "🦌", "w": 1, "d": 2, "scale": 1.5}
 
-  {"name": "Airplane by Poly by Google - 8VysVKMXN2J", "cat": "gh_vehicles", "label": "Airplane 2", "icon": "✈️", "w": 5, "d": 5, "scale": 2.5},
-  {"name": "Airplane by Poly by Google - a3XrQkLNna9", "cat": "gh_vehicles", "label": "Airplane 3", "icon": "✈️", "w": 5, "d": 5, "scale": 2.5},
-  {"name": "Fire Truck by Ivan Klus - 7iHJ519SwxG", "cat": "gh_vehicles", "label": "Fire Truck", "icon": "🚒", "w": 3, "d": 8, "scale": 1.8},
-  {"name": "Helicopter by jeremy - eb7b31pjGtQ", "cat": "gh_vehicles", "label": "Helicopter", "icon": "🚁", "w": 2, "d": 4},
-  {"name": "Jet by Poly by Google - bgUY8zN2Bq9", "cat": "gh_vehicles", "label": "Jet", "icon": "🛩️", "w": 5, "d": 5, "scale": 2.5},
-  {"name": "Motorcycle by Poly by Google - 5_MTCnqfUTr", "cat": "gh_vehicles", "label": "Motorcycle", "icon": "🏍️", "w": 1, "d": 2},
-  {"name": "Police Car by Quaternius - BwwnUrWGMV", "cat": "gh_vehicles", "label": "Police Car", "icon": "🚓", "w": 2, "d": 5, "scale": 1.5},
-  {"name": "Small Airplane by Vojtěch Balák - 7cvx6ex-xfL", "cat": "gh_vehicles", "label": "Small Airplane", "icon": "🛩️", "w": 5, "d": 5, "scale": 2.5},
-  {"name": "Truck by Poly by Google - 36sY8cTSgKL", "cat": "gh_vehicles", "label": "Truck", "icon": "🛻", "w": 3, "d": 8, "scale": 1.8},
-  {"name": "very cute airplane by Akash Rudra - 3UtlosDm9u-", "cat": "gh_vehicles", "label": "Cute Airplane", "icon": "✈️", "w": 4, "d": 4, "scale": 2.0},
-  {"name": "Chevrolet Camaro by PuKkBuMXDD - kVcKsd2dEk", "cat": "gh_vehicles", "label": "Camaro", "icon": "🏎️", "w": 2, "d": 5, "scale": 1.5},
-  {"name": "Mitsubishi L200 by Muhammad Reyhan - 4qjS9tFhsJg", "cat": "gh_vehicles", "label": "Mitsubishi L200", "icon": "🚙", "w": 2, "d": 5, "scale": 1.5},
-  
+  {"name": "Airplane by Poly by Google - 8VysVKMXN2J", "cat": "gh_vehicles", "label": "Biplane", "icon": "✈️", "w": 8, "d": 8},
+  {"name": "Airplane by Poly by Google - a3XrQkLNna9", "cat": "gh_vehicles", "label": "Airliner", "icon": "✈️", "w": 24, "d": 24},
+  {"name": "Fire Truck by Ivan Klus - 7iHJ519SwxG", "cat": "gh_vehicles", "label": "Fire Truck", "icon": "🚒", "w": 3, "d": 10},
+  {"name": "Helicopter by jeremy - eb7b31pjGtQ", "cat": "gh_vehicles", "label": "Helicopter", "icon": "🚁", "w": 4, "d": 12},
+  {"name": "Jet by Poly by Google - bgUY8zN2Bq9", "cat": "gh_vehicles", "label": "Jet", "icon": "🛩️", "w": 12, "d": 16},
+  {"name": "Motorcycle by Poly by Google - 5_MTCnqfUTr", "cat": "gh_vehicles", "label": "Motorcycle", "icon": "🏍️", "w": 1, "d": 3},
+  {"name": "Police Car by Quaternius - BwwnUrWGMV", "cat": "gh_vehicles", "label": "Police Car", "icon": "🚓", "w": 2, "d": 6},
+  {"name": "Small Airplane by Vojtěch Balák - 7cvx6ex-xfL", "cat": "gh_vehicles", "label": "Ultralight Airplane", "icon": "🛩️", "w": 6, "d": 6},
+  {"name": "Truck by Poly by Google - 36sY8cTSgKL", "cat": "gh_vehicles", "label": "Truck", "icon": "🛻", "w": 3, "d": 9},
+  {"name": "very cute airplane by Akash Rudra - 3UtlosDm9u-", "cat": "gh_vehicles", "label": "Cute Airplane", "icon": "✈️", "w": 4, "d": 4},
+  {"name": "Chevrolet Camaro by PuKkBuMXDD - kVcKsd2dEk", "cat": "gh_vehicles", "label": "Camaro", "icon": "🏎️", "w": 2, "d": 5},
+  {"name": "Mitsubishi L200 by Muhammad Reyhan - 4qjS9tFhsJg", "cat": "gh_vehicles", "label": "Mitsubishi L200", "icon": "🚙", "w": 2, "d": 6}
+
   {"name": "Adventurer by Quaternius - 5EGWBMpuXq", "cat": "gh_characters", "label": "Adventurer", "icon": "🧍", "w": 1, "d": 1},
   {"name": "King by Quaternius - l1gTjmuK2m", "cat": "gh_characters", "label": "King", "icon": "👑", "w": 1, "d": 1},
   {"name": "Witch by Quaternius - QBEOV9ZUT8", "cat": "gh_characters", "label": "Witch", "icon": "🧙‍♀️", "w": 1, "d": 1},
