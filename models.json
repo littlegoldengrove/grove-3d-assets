@@ -146,10 +146,10 @@
   {"name": "Rock by Quaternius - RtLRqYjfMs", "cat": "nature", "label": "Rock", "icon": "🪨", "w": 1, "d": 1},
   {"name": "Fire hydrant by Poly by Google - eNPaSEPrst8", "cat": "nature", "label": "Fire Hydrant", "icon": "🧯", "scale": 0.5, "w": 1, "d": 1},
   {"name": "Stop sign by Poly by Google - 60GyU9CdZ9r", "cat": "nature", "label": "Stop Sign", "icon": "🛑", "w": 1, "d": 1},
+  {"name": "Campfire by Poly by Google - 0vzzmM-t8CP", "cat": "nature", "label": "Campfire", "icon": "🔥", "w": 1, "d": 1},
   
   {"name": "Apple by Kenney - o4Of5itnxB", "cat": "gh_items", "label": "Apple", "icon": "🍎", "w": 1, "d": 1, "scale": 0.5},
   {"name": "Banana by Quaternius - ruOFtE0B6Z", "cat": "gh_items", "label": "Banana", "icon": "🍌", "w": 1, "d": 1, "scale": 0.5},
-  {"name": "Campfire by Poly by Google - 0vzzmM-t8CP", "cat": "gh_items", "label": "Campfire", "icon": "🔥", "w": 1, "d": 1},
   {"name": "Carrot by Kenney - 59muuwqSsq", "cat": "gh_items", "label": "Carrot", "icon": "🥕", "w": 1, "d": 1, "scale": 0.5},
   {"name": "Chest by Quaternius - O72u4Drp8k", "cat": "gh_items", "label": "Chest", "icon": "🧰", "w": 1, "d": 1},
   {"name": "Chest with Gold by Quaternius - haqf9qoiOG", "cat": "gh_items", "label": "Gold Chest", "icon": "🪙", "w": 1, "d": 1},
