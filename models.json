@@ -146,7 +146,7 @@
   {"name": "Jet by Poly by Google - bgUY8zN2Bq9", "cat": "gh_vehicles", "label": "Jet", "icon": "🛩️", "w": 12, "d": 16},
   {"name": "Mitsubishi L200 by Muhammad Reyhan - 4qjS9tFhsJg", "cat": "gh_vehicles", "label": "Mitsubishi L200", "icon": "🚙", "w": 2, "d": 6},
   {"name": "Motorcycle by Poly by Google - 5_MTCnqfUTr", "cat": "gh_vehicles", "label": "Motorcycle", "icon": "🏍️", "w": 1, "d": 3},
-  {"name": "Police Car by Quaternius - BwwnUrWGMV", "cat": "gh_vehicles", "label": "Police Car", "icon": "🚓", "w": 2, "d": 6},
+  {"name": "Police Car by Quaternius - BwwnUrWGmV", "cat": "gh_vehicles", "label": "Police Car", "icon": "🚓", "w": 2, "d": 6},
   {"name": "Small Airplane by Vojtěch Balák - 7cvx6ex-xfL", "cat": "gh_vehicles", "label": "Ultralight Airplane", "icon": "🛩️", "w": 8, "d": 8},
   {"name": "Truck by Poly by Google - 36sY8cTSgKL", "cat": "gh_vehicles", "label": "Truck", "icon": "🛻", "w": 2, "d": 6},
 
@@ -154,7 +154,7 @@
   {"name": "Business Man by Quaternius - JFrLiKqvCH", "cat": "gh_characters", "label": "Business Man", "icon": "👔", "w": 1, "d": 1},
   {"name": "Farmer by Quaternius - 7pn3R6hPvE", "cat": "gh_characters", "label": "Farmer", "icon": "🧑‍🌾", "w": 1, "d": 1},
   {"name": "Hooded Adventurer by Quaternius - y9KWOVG21R", "cat": "gh_characters", "label": "Hooded Adventurer", "icon": "🧍", "w": 1, "d": 1},
-  {"name": "King by Quaternius - l1gTjmuK2m", "cat": "gh_characters", "label": "King", "icon": "👑", "w": 1, "d": 1},
+  {"name": "King by Quaternius - I1gTjmuK2m", "cat": "gh_characters", "label": "King", "icon": "👑", "w": 1, "d": 1},
   {"name": "Witch by Quaternius - QBEOV9ZUT8", "cat": "gh_characters", "label": "Witch", "icon": "🧙‍♀️", "w": 1, "d": 1},
   {"name": "Worker by Quaternius - Yg2bQZO6Hj", "cat": "gh_characters", "label": "Worker", "icon": "👷", "w": 1, "d": 1},
 
