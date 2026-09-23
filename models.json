@@ -204,9 +204,7 @@
   {"name": "Chest with Gold by Quaternius - haqf9qoiOG", "cat": "gh_items", "label": "Gold Chest", "icon": "🪙", "w": 1, "d": 1},
   {"name": "Crate by Quaternius - 3VGWnZPXmG", "cat": "gh_items", "label": "Crate", "icon": "📦", "w": 1, "d": 1},
   {"name": "Crown by Poly by Google - 0seQ0mn72s5", "cat": "gh_items", "label": "Crown", "icon": "👑", "w": 1, "d": 1, "scale": 0.5},
-  {"name": "Honey by Kenney - p92t5dG8Zd", "cat": "gh_items", "label": "Honey", "icon": "🍯", "w": 1, "d": 1, "scale": 0.5},
   {"name": "Key by Quaternius - bg6e1lfNsO", "cat": "gh_items", "label": "Key", "icon": "🔑", "w": 1, "d": 1, "rx": -1.5708, "scale": 0.2},
   {"name": "Paper airplane by Poly by Google - 75WQH5E29tF", "cat": "gh_items", "label": "Paper Airplane", "icon": "✈️", "w": 1, "d": 1},
-  {"name": "Pineapple by Kenney - VFFBOLXqB2", "cat": "gh_items", "label": "Pineapple", "icon": "🍍", "w": 1, "d": 1, "scale": 0.5},
-  {"name": "Star Coin by Quaternius - n5nJIQAozN", "cat": "gh_items", "label": "Star Coin", "icon": "⭐", "w": 1, "d": 1, "scale": 0.5}
-]
+  {"name": "Pineapple by Kenney - VFFBOLXqB2", "cat": "gh_items", "label": "Pineapple", "icon": "🍍", "w": 1, "d": 1, "scale": 0.5}
+  ]
