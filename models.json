@@ -201,6 +201,6 @@
   {"name": "Chest by Quaternius - O72u4Drp8k", "cat": "gh_items", "label": "Chest", "icon": "🧰", "w": 1, "d": 1},
   {"name": "Chest with Gold by Quaternius - haqf9qoiOG", "cat": "gh_items", "label": "Gold Chest", "icon": "🪙", "w": 1, "d": 1},
   {"name": "Crate by Quaternius - 3VGWnZPXmG", "cat": "gh_items", "label": "Crate", "icon": "📦", "w": 1, "d": 1},
-  {"name": "Key by Quaternius - bg6e1lfNsO", "cat": "gh_items", "label": "Key", "icon": "🔑", "w": 1, "d": 1, "rx": -1.5708, "scale": 0.2},
+  {"name": "Key by Quaternius - bg6e1lfNsO", "cat": "gh_items", "label": "Key", "icon": "🔑", "w": 1, "d": 1, "rx": -1.5708, "scale": 0.5},
   {"name": "Pineapple by Kenney - VFFBOLXqB2", "cat": "gh_items", "label": "Pineapple", "icon": "🍍", "w": 1, "d": 1, "scale": 0.5}
   ]
