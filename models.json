@@ -171,7 +171,7 @@
   {"name": "Small Airplane by Vojtěch Balák - 7cvx6ex-xfL", "cat": "gh_aircraft", "label": "Ultralight Airplane", "icon": "🛩️", "w": 8, "d": 8},
   {"name": "Paper airplane by Poly by Google - 75WQH5E29tF", "cat": "gh_aircraft", "label": "Paper Airplane", "icon": "✈️", "w": 1, "d": 1},
   
-  {"name": "Adventurer by Quaternius - 5EGWBMpuXq", "cat": "gh_characters", "label": "Adventurer", "icon": "🧍", "w": 1, "d": 1},
+  {"name": "Adventurer by Quaternius - 5EGWBMpuXq", "cat": "gh_characters", "label": "Adventurer", "icon": "🧍", "w": 1, "d": 1, "scale": 2.0},
   {"name": "Business Man by Quaternius - JFrLiKqvCH", "cat": "gh_characters", "label": "Business Man", "icon": "👔", "w": 1, "d": 1},
   {"name": "Farmer by Quaternius - 7pn3R6hPvE", "cat": "gh_characters", "label": "Farmer", "icon": "🧑‍🌾", "w": 1, "d": 1},
   {"name": "Hooded Adventurer by Quaternius - y9KWOVG21R", "cat": "gh_characters", "label": "Hooded Adventurer", "icon": "🧍", "w": 1, "d": 1},
