@@ -129,7 +129,7 @@
   {"name": "Parrot by Poly by Google - dfNjMLtO0pd", "cat": "gh_animals", "label": "Parrot", "icon": "🦜", "w": 1, "d": 1, "scale": 0.5},
   {"name": "Pig by Quaternius - TNvG3QUFlp", "cat": "gh_animals", "label": "Pig", "icon": "🐖", "w": 1, "d": 1, "scale": 0.8},
   {"name": "Pug by Quaternius - 1gXKv15ik8", "cat": "gh_animals", "label": "Pug", "icon": "🐶", "w": 1, "d": 1, "scale": 0.6},
-  {"name": "Rabbit by Poly by Google - dyeBDJxhDwP", "cat": "gh_animals", "label": "Rabbit", "icon": "🐇", "w": 1, "d": 1, "scale": 0.5, "rx": -1.5708, "rz": 1.5708},
+  {"name": "Rabbit by Poly by Google - dyeBDJxhDwP", "cat": "gh_animals", "label": "Rabbit", "icon": "🐇", "w": 1, "d": 1, "scale": 0.5, "rx": -1.5708, "ry": 1.5708},
   {"name": "Raccoon by Poly by Google - 2iYORwFng3_", "cat": "gh_animals", "label": "Raccoon", "icon": "🦝", "w": 1, "d": 1, "scale": 0.7},
   {"name": "River otter by Poly by Google - dJW3JeUWXQ-", "cat": "gh_animals", "label": "River Otter", "icon": "🦦", "w": 1, "d": 1, "scale": 0.7},
   {"name": "Sheep by Quaternius - C39AUXUUes", "cat": "gh_animals", "label": "Sheep", "icon": "🐑", "w": 1, "d": 1, "scale": 0.9},
