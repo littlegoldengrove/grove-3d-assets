@@ -129,7 +129,7 @@
   {"name": "Parrot by Poly by Google - dfNjMLtO0pd", "cat": "gh_animals", "label": "Parrot", "icon": "🦜", "w": 1, "d": 1, "scale": 0.5},
   {"name": "Pig by Quaternius - TNvG3QUFlp", "cat": "gh_animals", "label": "Pig", "icon": "🐖", "w": 1, "d": 1, "scale": 0.8},
   {"name": "Pug by Quaternius - 1gXKv15ik8", "cat": "gh_animals", "label": "Pug", "icon": "🐶", "w": 1, "d": 1, "scale": 0.6},
-  {"name": "Rabbit by Poly by Google - dyeBDJxhDwP", "cat": "gh_animals", "label": "Rabbit", "icon": "🐇", "w": 1, "d": 1, "scale": 0.5, "rx": -1.5708, "rz": 1.5708},
+  {"name": "Rabbit by Poly by Google - dyeBDJxhDwP", "cat": "gh_animals", "label": "Rabbit", "icon": "🐇", "w": 1, "d": 1, "scale": 0.5, "rx": -1.5708, "ry": -1.5708},
   {"name": "Raccoon by Poly by Google - 2iYORwFng3_", "cat": "gh_animals", "label": "Raccoon", "icon": "🦝", "w": 1, "d": 1, "scale": 0.7},
   {"name": "River otter by Poly by Google - dJW3JeUWXQ-", "cat": "gh_animals", "label": "River Otter", "icon": "🦦", "w": 1, "d": 1, "scale": 0.7},
   {"name": "Sheep by Quaternius - C39AUXUUes", "cat": "gh_animals", "label": "Sheep", "icon": "🐑", "w": 1, "d": 1, "scale": 0.9},
@@ -145,7 +145,7 @@
   {"name": "Zebra by Poly by Google - 8Ut7mhb-aqK", "cat": "gh_animals", "label": "Zebra", "icon": "🦓", "w": 1, "d": 2, "scale": 1.3},
 
   {"name": "Ambulance by Poly by Google - 8NOFImgkI5N", "cat": "gh_vehicles", "label": "Ambulance", "icon": "🚑", "w": 2, "d": 6},
-  {"name": "Boat by Pixel - YwdXrwbN3o", "cat": "gh_vehicles", "label": "Boat", "icon": "⛵", "w": 3, "d": 8},
+  {"name": "Boat by Pixel - YwdXrwbN3o", "cat": "gh_vehicles", "label": "Boat", "icon": "⛵", "w": 3, "d": 8, "ry": 3.14159},
   {"name": "Buggy by Nick Slough - eZ_13w7qZh7", "cat": "gh_vehicles", "label": "Buggy", "icon": "🛺", "w": 2, "d": 4, "ry": 1.5708},
   {"name": "CAR Model by Ignition Labs - 5zUWP5UsLg-", "cat": "gh_vehicles", "label": "CAR Model", "icon": "🚗", "w": 2, "d": 6},
   {"name": "Chevrolet Camaro by PuKkBuMXDD - kVcKsd2dEk", "cat": "gh_vehicles", "label": "Camaro", "icon": "🏎️", "w": 2, "d": 5},
