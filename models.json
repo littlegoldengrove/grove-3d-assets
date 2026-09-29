@@ -255,7 +255,7 @@
   {"name": "Tree by Poly by Google - 6pwiq7hSrHr", "cat": "nature", "label": "Tree", "icon": "🌳", "scale": 2.0, "w": 1, "d": 1},
   {"name": "tulip 3 by Hugo Gibson - 2zT-C10njmX", "cat": "nature", "label": "Tulip", "icon": "🌷", "w": 1, "d": 1, "scale": 0.5},
 
-  {"name": "Barbecue by CreativeTrio - ZZyQvAYY5L", "cat": "outdoor", "label": "Barbecue", "icon": "🍖", "w": 1, "d": 1},
+  {"name": "Barbecue by CreativeTrio - ZZyQvAYY5L", "cat": "outdoor", "label": "Grill", "icon": "🍖", "w": 2, "d": 1},
   {"name": "Campfire by Poly by Google - 0vzzmM-t8CP", "cat": "outdoor", "label": "Campfire", "icon": "🔥", "w": 1, "d": 1},
   {"name": "Fire hydrant by Poly by Google - eNPaSEPrst8", "cat": "outdoor", "label": "Fire Hydrant", "icon": "🧯", "scale": 0.5, "w": 1, "d": 1},
   {"name": "Fountain by Poly by Google - 4KKY7CmNe_r", "cat": "outdoor", "label": "Fountain", "icon": "⛲", "w": 2, "d": 2},
