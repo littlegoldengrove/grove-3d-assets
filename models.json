@@ -74,7 +74,7 @@
   {"name": "Basketball by Poly by Google - eopD_12UuB8", "cat": "gh_activities", "label": "Basketball", "snap": "center", "w": 1, "d": 1, "icon": "🏀", "scale": 0.5, "price": 50},
   {"name": "Chess Set by Jarlan Perez - 00f9MZIwA1V", "cat": "gh_activities", "label": "Chess Set", "snap": "center", "w": 1, "d": 1, "icon": "♟️", "scale": 0.5, "price": 100},
   {"name": "easel by yentc atmcdg - 52cDlIgLNvv", "cat": "gh_activities", "label": "Easel", "snap": "center", "w": 1, "d": 1, "icon": "🎨", "price": 200},
-  {"name": "Piano by Poly by Google - 1YoE664mJTd", "cat": "gh_activities", "label": "Piano", "snap": "center", "w": 2, "d": 2, "icon": "🎹", "price": 1500, "yOffset": -2.5},
+  {"name": "Piano by Poly by Google - 1YoE664mJTd", "cat": "gh_activities", "label": "Piano", "snap": "center", "w": 2, "d": 2, "icon": "🎹", "price": 1500, "yOffset": -3.5},
   {"name": "Punching Bag by Zsky - 4VgbuuhY8j", "cat": "gh_activities", "label": "Punching Bag", "snap": "center", "w": 1, "d": 1, "icon": "🥊", "price": 300},
   {"name": "Simple soccer football by Smirnoff Alexander - 57u6P7Sr7K0", "cat": "gh_activities", "label": "Soccer Ball", "snap": "center", "w": 1, "d": 1, "icon": "⚽", "scale": 0.5, "price": 50},
   {"name": "Slide by Poly by Google - dDe3njWPbg0", "cat": "gh_activities", "label": "Slide", "snap": "center", "w": 1, "d": 3, "icon": "🛝", "price": 600},
@@ -98,7 +98,7 @@
   {"name": "Bed Single", "cat": "gh_bedroom", "snap": "center", "w": 1, "d": 2, "icon": "🛏️", "price": 800},
   {"name": "Cabinet Bed Drawer Tabl", "label": "Nightstand", "cat": "gh_bedroom", "snap": "center", "w": 1, "d": 1, "icon": "🪑", "price": 400, "scale": 0.7},
   {"name": "Closet by Quaternius - BHEVb1DIuH", "cat": "gh_bedroom", "label": "Closet", "snap": "center", "w": 2, "d": 1, "icon": "🚪", "price": 500},
-  {"name": "Crib by Poly by Google - 4iV2yZ0wIf1", "cat": "gh_bedroom", "label": "Crib", "snap": "center", "w": 1, "d": 2, "icon": "🛏️", "price": 500, "yOffset": -2.0},
+  {"name": "Crib by Poly by Google - 4iV2yZ0wIf1", "cat": "gh_bedroom", "label": "Crib", "snap": "center", "w": 1, "d": 2, "icon": "🛏️", "price": 500, "yOffset": -1.9},
   {"name": "Drawer by Quaternius - T4uDbyP90C", "cat": "gh_bedroom", "label": "Drawer", "snap": "center", "w": 1, "d": 1, "icon": "🗄️", "price": 200},
   {"name": "Dresser by CMHT Oculus - 0K05lwk9caj", "cat": "gh_bedroom", "label": "Dresser", "snap": "center", "w": 1, "d": 1, "icon": "🗄️", "price": 400},
 
@@ -183,7 +183,6 @@
   {"name": "Light Desk by Quaternius - uJDWrSJGVH", "cat": "gh_lighting", "label": "Desk Lamp", "snap": "center", "w": 1, "d": 1, "icon": "💡", "scale": 0.5, "price": 100},
 
   {"name": "Bar Stool", "cat": "gh_seating", "snap": "center", "w": 1, "d": 1, "icon": "🪑", "price": 150, "scale": 0.6},
-  {"name": "Beach chair by Poly by Google - 9TN4PyhWvz1", "cat": "gh_seating", "label": "Beach Chair", "snap": "center", "w": 1, "d": 1, "icon": "🪑", "price": 150},
   {"name": "Bench Cushion", "label": "Bench", "cat": "gh_seating", "snap": "center", "w": 1, "d": 1, "icon": "🪑", "price": 450, "scale": 1.0},
   {"name": "Bench Cushion Low", "label": "Low Bench", "cat": "gh_seating", "snap": "center", "w": 1, "d": 1, "icon": "🪑", "price": 400, "scale": 1.0},
   {"name": "Bench by Ev Amitay - dOSjmdmKaxi", "cat": "gh_seating", "label": "Park Bench", "snap": "center", "w": 2, "d": 1, "icon": "🪑", "price": 200},
@@ -197,7 +196,7 @@
   {"name": "Lounge Sofa Corner", "label": "Corner Sofa", "cat": "gh_seating", "snap": "center", "w": 2, "d": 2, "icon": "🛋️", "price": 1600},
   {"name": "Lounge Sofa Long", "label": "Lounge Sofa", "cat": "gh_seating", "snap": "center", "w": 2, "d": 1, "icon": "🛋️", "price": 1400},
   {"name": "Lounge Sofa Ottoman", "label": "Ottoman", "cat": "gh_seating", "snap": "center", "w": 1, "d": 1, "icon": "🪑", "price": 300},
-  {"name": "Low Poly Sectional Couch by Stephen White - 2ntmr7Oka5z", "cat": "gh_seating", "label": "Sectional Couch", "snap": "center", "w": 3, "d": 3, "icon": "🛋️", "price": 1500, "ry": -0.25},
+  {"name": "Low Poly Sectional Couch by Stephen White - 2ntmr7Oka5z", "cat": "gh_seating", "label": "Sectional Couch", "snap": "center", "w": 3, "d": 3, "icon": "🛋️", "price": 1500, "ry": 0.25},
 
   {"name": "Bookcase Closed", "cat": "gh_storage", "snap": "center", "w": 1, "d": 1, "icon": "📚", "price": 400},
   {"name": "Bookcase Closed Doors", "label": "Books w/Doors", "cat": "gh_storage", "snap": "center", "w": 1, "d": 1, "icon": "📚", "price": 450},
@@ -262,11 +261,11 @@
   {"name": "Fountain by Poly by Google - 4KKY7CmNe_r", "cat": "outdoor", "label": "Fountain", "icon": "⛲", "w": 2, "d": 2},
   {"name": "Garden Lamp by Zsky - cCiFRJLsuI", "cat": "outdoor", "label": "Garden Lamp", "icon": "🏮", "w": 1, "d": 1},
   {"name": "Mailbox by CreativeTrio - 2olZ0G8iur", "cat": "gh_outdoor", "label": "Mailbox", "snap": "center", "w": 1, "d": 1, "icon": "📫", "price": 150},
-  {"name": "Orange Chaise Lounge Chair by S. Paul Michael - 8ir-Gw1ZObm", "cat": "gh_outdoor", "label": "Orange Chaise", "snap": "center", "w": 1, "d": 2, "icon": "🛋️", "price": 800, "ry": 0.25},
+  {"name": "Orange Chaise Lounge Chair by S. Paul Michael - 8ir-Gw1ZObm", "cat": "gh_outdoor", "label": "Orange Chaise", "snap": "center", "w": 1, "d": 2, "icon": "🛋️", "price": 800, "ry": 0.25},   {"name": "Beach chair by Poly by Google - 9TN4PyhWvz1", "cat": "gh_seating", "label": "Beach Chair", "snap": "center", "w": 1, "d": 1, "icon": "🪑", "price": 150},
   {"name": "Picnic Table by J-Toastie - LM6QWe8kFT", "cat": "outdoor", "label": "Picnic Table", "icon": "🪑", "w": 2, "d": 2},
   {"name": "Stop sign by Poly by Google - 60GyU9CdZ9r", "cat": "outdoor", "label": "Stop Sign", "icon": "🛑", "w": 1, "d": 1},
   {"name": "Street Light by Quaternius - nFwrlcLvM5", "cat": "outdoor", "label": "Street Light", "icon": "💡", "w": 1, "d": 1},
   {"name": "Traffic light by Kay Lousberg - aYC3t5ymln", "cat": "outdoor", "label": "Traffic Light", "icon": "🚦", "w": 1, "d": 1, "scale": 3.0},
   {"name": "Trashcan by Quaternius - XSwahu252t", "cat": "outdoor", "label": "Outdoor Trash", "icon": "🗑️", "w": 1, "d": 1},
-  {"name": "Umbrella by Poly by Google - 2Wm3kiZWh_R", "cat": "outdoor", "label": "Umbrella", "icon": "☂️", "w": 2, "d": 2}
+  {"name": "Umbrella by Poly by Google - 2Wm3kiZWh_R", "cat": "outdoor", "label": "Umbrella", "icon": "☂️", "w": 2, "d": 2, "yOffset": -0.25}
 ]
