@@ -102,7 +102,7 @@
   {"name": "Drawer by Quaternius - T4uDbyP90C", "cat": "gh_bedroom", "label": "Drawer", "snap": "center", "w": 1, "d": 1, "icon": "🗄️", "price": 200},
   {"name": "Dresser by CMHT Oculus - 0K05lwk9caj", "cat": "gh_bedroom", "label": "Dresser", "snap": "center", "w": 1, "d": 1, "icon": "🗄️", "price": 400},
 
-  {"name": "Rail Corner by Quaternius - WlELoPR0XN", "cat": "gh_build", "label": "Rail Corner", "snap": "center", "w": 1, "d": 1, "icon": "🛤️", "price": 100},
+  {"name": "Rail Corner by Quaternius - WlELoPR0XN", "cat": "gh_build", "label": "Rail Corner", "snap": "center", "w": 1, "d": 1, "icon": "🛤️", "price": 100, "scale": 0.9},
   {"name": "Rail Straight by Quaternius - BIcZkcWUI2", "cat": "gh_build", "label": "Rail Straight", "snap": "center", "w": 1, "d": 1, "icon": "🛤️", "price": 100},
   {"name": "Stair case by Poly by Google - eGCQotGGUVo", "cat": "gh_build", "label": "Staircase", "snap": "center", "w": 2, "d": 1, "icon": "🪜", "price": 1000, "h": 3.0},
   {"name": "Stairs Open", "label": "Stairs", "cat": "gh_build", "snap": "center", "w": 2, "d": 1, "icon": "🪜", "price": 1000, "h": 3.0, "scale": 0.7},
@@ -170,7 +170,7 @@
   {"name": "Kitchen Microwave", "label": "Microwave", "cat": "gh_kitchen", "snap": "center", "w": 1, "d": 1, "icon": "♨️", "price": 250, "scale": 0.6},
   {"name": "Kitchen Blender", "label": "Blender", "cat": "gh_kitchen", "snap": "center", "w": 1, "d": 1, "icon": "🥤", "price": 100, "scale": 0.3},
   {"name": "Toaster", "cat": "gh_kitchen", "snap": "center", "w": 1, "d": 1, "icon": "🍞", "price": 80, "scale": 0.3},
-  {"name": "Trashcan", "cat": "gh_kitchen", "snap": "center", "w": 1, "d": 1, "icon": "🗑️", "price": 50, "scale": 0.8},
+  {"name": "Trashcan", "cat": "gh_kitchen", "snap": "center", "w": 1, "d": 1, "icon": "🗑️", "price": 50, "scale": 0.6},
   {"name": "Washer", "cat": "gh_kitchen", "snap": "center", "w": 1, "d": 1, "icon": "🫧", "price": 1100},
   {"name": "Dryer", "cat": "gh_kitchen", "snap": "center", "w": 1, "d": 1, "icon": "🧺", "price": 1100},
   
