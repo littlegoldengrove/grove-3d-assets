@@ -98,7 +98,7 @@
   {"name": "Bed Single", "cat": "gh_bedroom", "snap": "center", "w": 1, "d": 2, "icon": "🛏️", "price": 800},
   {"name": "Cabinet Bed Drawer Tabl", "label": "Nightstand", "cat": "gh_bedroom", "snap": "edge", "w": 1, "d": 1, "icon": "🪑", "price": 400, "scale": 0.7},
   {"name": "Closet by Quaternius - BHEVb1DIuH", "cat": "gh_bedroom", "label": "Wardrobe", "snap": "edge", "w": 1, "d": 1, "icon": "🚪", "price": 500},
-  {"name": "Crib by Poly by Google - 4iV2yZ0wIf1", "cat": "gh_bedroom", "label": "Crib", "snap": "edge", "w": 1, "d": 2, "icon": "🛏️", "price": 500, "yOffset": -0.9, "scale": 0.7},
+  {"name": "Crib by Poly by Google - 4iV2yZ0wIf1", "cat": "gh_bedroom", "label": "Crib", "snap": "edge", "w": 1, "d": 2, "icon": "🛏️", "price": 500, "yOffset": -1.0, "scale": 0.7},
   {"name": "Drawer by Quaternius - T4uDbyP90C", "cat": "gh_bedroom", "label": "Dresser", "snap": "center", "w": 3, "d": 1, "icon": "🗄️", "price": 200},
   {"name": "Dresser by CMHT Oculus - 0K05lwk9caj", "cat": "gh_bedroom", "label": "Tall Dresser", "snap": "edge", "w": 1, "d": 1, "icon": "🗄️", "price": 400},
 
