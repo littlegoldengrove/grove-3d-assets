@@ -106,7 +106,7 @@
   {"name": "Rail Straight by Quaternius - BIcZkcWUI2", "cat": "gh_other", "label": "Rail Straight", "snap": "center", "w": 1, "d": 1, "icon": "🛤️", "price": 100},
   {"name": "Stair case by Poly by Google - eGCQotGGUVo", "cat": "gh_other", "label": "Staircase", "snap": "center", "w": 2, "d": 1, "icon": "🪜", "price": 1000, "h": 3.0},
   {"name": "Stairs Open", "label": "Stairs", "cat": "gh_build", "snap": "center", "w": 2, "d": 1, "icon": "🪜", "price": 1000, "h": 3.0, "scale": 0.7},
-  {"name": "Stairs Sides Short by Kenney - St1Kbh4tsM", "cat": "gh_build", "label": "Short Stairs", "snap": "center", "w": 1, "d": 1, "icon": "🪜", "price": 500},
+  {"name": "Stairs Sides Short by Kenney - St1Kbh4tsM", "cat": "gh_build", "label": "Short Stairs", "snap": "center", "w": 1, "d": 2, "icon": "🪜", "price": 500},
 
   {"name": "Adventurer by Quaternius - 5EGWBMpuXq", "cat": "gh_characters", "label": "Adventurer", "icon": "🧍", "w": 1, "d": 1, "scale": 1.7},
   {"name": "Animated Robot by Quaternius - QCm7qe9uNJ", "cat": "gh_characters", "label": "Robot", "snap": "center", "w": 1, "d": 1, "icon": "🤖", "price": 0, "scale": 1.7},
@@ -265,8 +265,8 @@
   {"name": "Beach chair by Poly by Google - 9TN4PyhWvz1", "cat": "gh_outdoor", "label": "Beach Chair", "snap": "center", "w": 1, "d": 2, "icon": "🪑", "price": 150, "scale": 0.6},
   {"name": "Picnic Table by J-Toastie - LM6QWe8kFT", "cat": "outdoor", "label": "Picnic Table", "icon": "🪑", "w": 2, "d": 2},
   {"name": "Stop sign by Poly by Google - 60GyU9CdZ9r", "cat": "outdoor", "label": "Stop Sign", "icon": "🛑", "w": 1, "d": 1},
-  {"name": "Street Light by Quaternius - nFwrlcLvM5", "cat": "outdoor", "label": "Street Light", "icon": "💡", "w": 1, "d": 1, "scale": 2.0},
-  {"name": "Traffic light by Kay Lousberg - aYC3t5ymln", "cat": "outdoor", "label": "Traffic Light", "icon": "🚦", "w": 1, "d": 1, "scale": 3.0},
+  {"name": "Street Light by Quaternius - nFwrlcLvM5", "cat": "outdoor", "label": "Street Light", "icon": "💡", "w": 1, "d": 1, "scale": 1.8},
+  {"name": "Traffic light by Kay Lousberg - aYC3t5ymln", "cat": "outdoor", "label": "Traffic Light", "icon": "🚦", "w": 1, "d": 1, "scale": 3.2},
   {"name": "Trashcan by Quaternius - XSwahu252t", "cat": "outdoor", "label": "Outdoor Trash", "icon": "🗑️", "w": 1, "d": 1},
   {"name": "Umbrella by Poly by Google - 2Wm3kiZWh_R", "cat": "outdoor", "label": "Umbrella", "icon": "☂️", "w": 2, "d": 2, "yOffset": -0.25}
 ]
