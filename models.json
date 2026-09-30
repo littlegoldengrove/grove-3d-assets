@@ -98,7 +98,7 @@
   {"name": "Bed Single", "cat": "gh_bedroom", "snap": "center", "w": 1, "d": 2, "icon": "🛏️", "price": 800},
   {"name": "Cabinet Bed Drawer Tabl", "label": "Nightstand", "cat": "gh_bedroom", "snap": "edge", "w": 1, "d": 1, "icon": "🪑", "price": 400, "scale": 0.7},
   {"name": "Closet by Quaternius - BHEVb1DIuH", "cat": "gh_bedroom", "label": "Wardrobe", "snap": "edge", "w": 1, "d": 1, "icon": "🚪", "price": 500},
-  {"name": "Crib by Poly by Google - 4iV2yZ0wIf1", "cat": "gh_bedroom", "label": "Crib", "snap": "edge", "w": 2, "d": 1, "icon": "🛏️", "price": 500, "yOffset": -0.8, "scale": 0.7},
+  {"name": "Crib by Poly by Google - 4iV2yZ0wIf1", "cat": "gh_bedroom", "label": "Crib", "snap": "edge", "w": 1, "d": 2, "icon": "🛏️", "price": 500, "yOffset": -0.8, "scale": 0.7},
   {"name": "Drawer by Quaternius - T4uDbyP90C", "cat": "gh_bedroom", "label": "Dresser", "snap": "center", "w": 3, "d": 1, "icon": "🗄️", "price": 200},
   {"name": "Dresser by CMHT Oculus - 0K05lwk9caj", "cat": "gh_bedroom", "label": "Tall Dresser", "snap": "edge", "w": 1, "d": 1, "icon": "🗄️", "price": 400},
 
@@ -265,8 +265,8 @@
   {"name": "Beach chair by Poly by Google - 9TN4PyhWvz1", "cat": "gh_outdoor", "label": "Beach Chair", "snap": "center", "w": 1, "d": 2, "icon": "🪑", "price": 150, "scale": 0.8},
   {"name": "Picnic Table by J-Toastie - LM6QWe8kFT", "cat": "outdoor", "label": "Picnic Table", "icon": "🪑", "w": 2, "d": 2},
   {"name": "Stop sign by Poly by Google - 60GyU9CdZ9r", "cat": "outdoor", "label": "Stop Sign", "icon": "🛑", "w": 1, "d": 1},
-  {"name": "Street Light by Quaternius - nFwrlcLvM5", "cat": "outdoor", "label": "Street Light", "icon": "💡", "w": 1, "d": 1, "scale": 1.0, "alignCenter": false, "exactScale": true},
-  {"name": "Traffic light by Kay Lousberg - aYC3t5ymln", "cat": "outdoor", "label": "Traffic Light", "icon": "🚦", "w": 1, "d": 1, "scale": 3.8, "alignCenter": false, "exactScale": true},
+  {"name": "Street Light by Quaternius - nFwrlcLvM5", "cat": "outdoor", "label": "Street Light", "icon": "💡", "w": 1, "d": 1, "scale": 0.9, "alignCenter": false, "exactScale": true},
+  {"name": "Traffic light by Kay Lousberg - aYC3t5ymln", "cat": "outdoor", "label": "Traffic Light", "icon": "🚦", "w": 1, "d": 1, "scale": 4.0, "alignCenter": false, "exactScale": true},
   {"name": "Trashcan by Quaternius - XSwahu252t", "cat": "outdoor", "label": "Outdoor Trash", "icon": "🗑️", "w": 1, "d": 1},
   {"name": "Umbrella by Poly by Google - 2Wm3kiZWh_R", "cat": "outdoor", "label": "Umbrella", "icon": "☂️", "w": 2, "d": 2, "yOffset": -0.25}
 ]
