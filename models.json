@@ -130,7 +130,6 @@
   {"name": "Plant Small", "cat": "gh_decor", "snap": "center", "w": 1, "d": 1, "icon": "🪴", "price": 80, "scale": 0.4},
   {"name": "Potted Plant", "cat": "gh_decor", "snap": "center", "w": 1, "d": 1, "icon": "🪴", "price": 120, "scale": 0.6},
   {"name": "Rug Doormat", "cat": "gh_decor", "snap": "center", "w": 1, "d": 1, "icon": "🟫", "price": 40, "scale": 0.8},
-  {"name": "Wall Art 06 by Jarlan Perez - 1U5roiXQZAM", "cat": "gh_decor", "label": "Wall Art", "snap": "edge", "w": 1, "d": 1, "icon": "🖼️", "price": 200, "yOffset": 1.5},
   {"name": "Wall painting by jeremy - 0CiZ4f1cZaF", "cat": "gh_decor", "label": "Wall Painting", "snap": "edge", "w": 1, "d": 1, "icon": "🖼️", "price": 250, "yOffset": 1.5},
   {"name": "Window blinds by Jarlan Perez - 8UULkkmfhcB", "cat": "gh_decor", "label": "Blinds", "snap": "edge", "w": 1, "d": 1, "icon": "🪟", "price": 150, "yOffset": 1.0},
 
