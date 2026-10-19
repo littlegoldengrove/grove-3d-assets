@@ -119,7 +119,7 @@
 
   {"name": "Books", "cat": "gh_decor", "snap": "center", "w": 1, "d": 1, "icon": "📖", "price": 50, "scale": 0.3},
   {"name": "Bowl of Fruit by sirkitree - 2kBAnLbWgMJ", "cat": "gh_decor", "label": "Fruit Bowl", "snap": "center", "w": 1, "d": 1, "icon": "🍎", "scale": 0.5},
-  {"name": "Ceiling Fan", "cat": "gh_decor", "snap": "center", "w": 1, "d": 1, "icon": "🪭", "price": 300, "yOffset": 2.8, "scale": 0.8},
+  {"name": "Ceiling Fan", "cat": "gh_decor", "snap": "center", "w": 1, "d": 1, "icon": "🪭", "price": 300, "yOffset": 2.8},
   {"name": "Clock by Poly by Google - dwZRvbXlAus", "cat": "gh_decor", "label": "Clock", "snap": "edge", "w": 1, "d": 1, "icon": "🕰️", "price": 100, "yOffset": 1.8},
   {"name": "Curtains Double by Quaternius - kkeII96j9N", "cat": "gh_decor", "label": "Double Curtains", "snap": "edge", "w": 2, "d": 1, "icon": "🪟", "price": 300},
   {"name": "Electrical outlet by Poly by Google - 2cHXx4qkHWU", "cat": "gh_decor", "label": "Outlet", "snap": "edge", "w": 1, "d": 1, "icon": "🔌", "price": 50, "yOffset": 0.3, "scale": 0.2},
@@ -131,7 +131,7 @@
   {"name": "Potted Plant", "cat": "gh_decor", "snap": "center", "w": 1, "d": 1, "icon": "🪴", "price": 120, "scale": 0.6},
   {"name": "Rug Doormat", "cat": "gh_decor", "snap": "center", "w": 1, "d": 1, "icon": "🟫", "price": 40, "scale": 0.8},
   {"name": "Wall painting by jeremy - 0CiZ4f1cZaF", "cat": "gh_decor", "label": "Wall Painting", "snap": "edge", "w": 1, "d": 1, "icon": "🖼️", "price": 250, "yOffset": 1.5},
-  {"name": "Window blinds by Jarlan Perez - 8UULkkmfhcB", "cat": "gh_decor", "label": "Blinds", "snap": "edge", "w": 1, "d": 1, "icon": "🪟", "price": 150, "yOffset": -0.3},
+  {"name": "Window blinds by Jarlan Perez - 8UULkkmfhcB", "cat": "gh_decor", "label": "Blinds", "snap": "edge", "w": 1, "d": 1, "icon": "🪟", "price": 150},
 
   {"name": "Computer Keyboard", "label": "Keyboard", "cat": "gh_electronics", "snap": "center", "w": 1, "d": 1, "icon": "⌨️", "price": 100, "scale": 0.4},
   {"name": "Computer Screen", "cat": "gh_electronics", "snap": "center", "w": 1, "d": 1, "icon": "🖥️", "price": 600, "scale": 0.5},
