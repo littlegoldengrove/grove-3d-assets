@@ -237,7 +237,7 @@
   {"name": "Truck by sugamo - fbDxapxkwY9", "cat": "gh_vehicles", "label": "Truck Sugamo", "icon": "🚚", "w": 2, "d": 5},
 
   {"name": "Tree by Poly by Google - 6pwiq7hSrHr", "cat": "nature", "label": "Tree", "icon": "🌳", "scale": 2.0, "w": 1, "d": 1},
-  {"name": "Palm Tree by Quaternius - A6cKJYFsIb.glb", "cat": "nature", "label": "Palm Tree", "icon": "🌴", "scale": 2.0, "w": 1, "d": 1},
+  {"name": "Palm Tree by Quaternius - A6cKJYFsIb", "cat": "nature", "label": "Palm Tree", "icon": "🌴", "scale": 2.0, "w": 1, "d": 1},
   {"name": "Pine by Quaternius - igSu0cPoBz", "cat": "nature", "label": "Pine Tree", "icon": "🌲", "w": 1, "d": 1, "scale": 2.0},
   {"name": "Bell Flower by Zsky - 1baaAXcdzZ", "cat": "nature", "label": "Bell Flower", "icon": "🌷", "w": 1, "d": 1, "scale": 0.5, "price": 40},
   {"name": "Desert lily by Poly by Google - 66Z3ABnPiVB", "cat": "nature", "label": "Desert Lily", "icon": "🪷", "w": 1, "d": 1, "scale": 0.5, "price": 40},
