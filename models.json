@@ -173,7 +173,6 @@
   {"name": "Lamp Round Floor", "label": "Floor Lamp", "cat": "gh_lighting", "snap": "center", "w": 1, "d": 1, "icon": "💡", "price": 250, "scale": 0.4},
   {"name": "Lamp Round Table", "label": "Table Lamp", "cat": "gh_lighting", "snap": "center", "w": 1, "d": 1, "icon": "💡", "price": 120, "scale": 0.3},
   {"name": "Lamp Square Ceiling", "label": "Ceiling Light", "cat": "gh_lighting", "snap": "center", "w": 1, "d": 1, "icon": "💡", "price": 180, "yOffset": 2.2, "scale": 0.5},
-  {"name": "Lamp Square Floor", "label": "Sq Floor Lamp", "cat": "gh_lighting", "snap": "center", "w": 1, "d": 1, "icon": "💡", "price": 260, "scale": 0.4},
   {"name": "Lamp Square Table", "label": "Sq Table Lamp", "cat": "gh_lighting", "snap": "center", "w": 1, "d": 1, "icon": "💡", "price": 130, "scale": 0.3},
   {"name": "Lamp Wall", "cat": "gh_lighting", "snap": "edge", "w": 1, "d": 1, "icon": "💡", "price": 100, "yOffset": 1.8, "scale": 0.3},
   {"name": "Light Desk by Quaternius - uJDWrSJGVH", "cat": "gh_lighting", "label": "Desk Lamp", "snap": "center", "w": 1, "d": 1, "icon": "💡", "scale": 0.5, "price": 100},
